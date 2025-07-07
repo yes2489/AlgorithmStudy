@@ -7,7 +7,8 @@
     <td align="center"><a href="https://github.com/Jay-Youngjae"><img src="https://github.com/Jay-Youngjae.png" width="100px;" alt=""/><br /><sub><b>✨ 김영재 ✨</b></sub></td>
     <td align="center"><a href="https://github.com/Minkyoungg0"><img src="https://github.com/Minkyoungg0.png" width="100px;" alt=""/><br /><sub><b>✨ 문민경 ✨</b></sub></td>  
     <td align="center"><a href="https://github.com/bbo9866"><img src="https://github.com/bbo9866.png" width="100px;" alt=""/><br /><sub><b>✨ 박지원 ✨</b></sub></td>
-    <td align="center"><a href="https://github.com/yes2489"><img src="https://github.com/yes2489.png" width="100px;" alt=""/><br /><sub><b>✨ 양은서 ✨</b></sub></td>  
+    <td align="center"><a href="https://github.com/yes2489"><img src="https://github.com/yes2489.png" width="100px;" alt=""/><br /><sub><b>✨ 양은서 ✨</b></sub></td>
+    <td align="center"><a href="https://github.com/ye0ngeun"><img src="https://github.com/ye0ngeun.png" width="100px;" alt=""/><br /><sub><b>✨ 이영은 ✨</b></sub></td>
   </tr>
 </table>
 <br />
