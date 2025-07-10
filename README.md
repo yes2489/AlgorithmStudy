@@ -23,7 +23,16 @@
 
 ## 📣 Study Rule 📣
 
--
+- 결석 시 **당일 오전까지 사전 공유**
+- **삼진아웃제 도입**: 문제를 3회 이상 미제출 시 커피 벌칙
+- 현재 목표는 **solved.ac 클래스 2, 3 완수**, 이후 에센셜 문제 풀이
+- 클래스 2부터 **주 5문제씩 풀이 시작**, 이후 점차 문제 수 확대
+- **본인 발표 시**, 풀이 문제를 미리 공유하고 **어려웠던 문제 중심으로 발표**
+- **목요일 오전까지**, 어려웠던 문제를 사전 공지
+- **PR은 스터디 당일 제출**
+
+<br />
+<br />
 
 ## 💡 Submit 💡
 
@@ -68,16 +77,14 @@ git commit -m "[BOJ]2557 Hello World / 브론즈5 / eunseoyang"
   <tr>
     <td valign="top">
       <details>
-      <summary><strong>회차번호 (YY.MM.DD)</strong></summary>
+      <summary><strong>1회차 (25.07.17)</strong></summary>
       <strong>공통</strong>
       <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
-      </ul>
-      <strong>자율</strong>
-      <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
+        <li><a href="https://www.acmicpc.net/problem/2751">수 정렬하기 2</a></li>
+        <li><a href="https://www.acmicpc.net/problem/11650">좌표 정렬하기</a></li>
+        <li><a href="https://www.acmicpc.net/problem/1978">소수 찾기</a></li>
+        <li><a href="https://www.acmicpc.net/problem/1546">평균</a></li>
+        <li><a href="https://www.acmicpc.net/problem/9012">괄호</a></li>
       </ul>
     </details>
     </td>
