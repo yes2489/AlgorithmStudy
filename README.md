@@ -51,7 +51,7 @@
 - 터미널에서 작성법:
 
 ```
-git commit -m "[BOJ]2557 Hello World / 브론즈5 / eunseoyang"
+git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
 ```
 
 - 플랫폼 작성법 통일:
@@ -78,7 +78,11 @@ git commit -m "[BOJ]2557 Hello World / 브론즈5 / eunseoyang"
     <td valign="top">
       <details>
       <summary><strong>1회차 (25.07.17)</strong></summary>
-      <strong>공통</strong>
+      <strong>대면</strong>
+      <ul>
+        <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/340199">[PCCE 기출문제] 9번 / 지폐 접기</a></li>
+      </ul>
+      <strong>공통 과제</strong>
       <ul>
         <li><a href="https://www.acmicpc.net/problem/2751">수 정렬하기 2</a></li>
         <li><a href="https://www.acmicpc.net/problem/11650">좌표 정렬하기</a></li>
@@ -90,16 +94,19 @@ git commit -m "[BOJ]2557 Hello World / 브론즈5 / eunseoyang"
     </td>
     <td valign="top">
       <details>
-      <summary><strong>회차번호 (YY.MM.DD)</strong></summary>
-      <strong>공통</strong>
+      <summary><strong>2회차 (25.07.17)</strong></summary>
+      <strong>대면</strong>
       <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
+        <li><a href="https://www.acmicpc.net/problem/2164">카드2</a></li>
+        <li><a href="https://www.acmicpc.net/problem/10814">나이순 정렬</a></li>
       </ul>
-      <strong>자율</strong>
+      <strong>공통 과제</strong>
       <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
+        <li><a href="https://www.acmicpc.net/problem/2798">블랙잭</a></li>
+        <li><a href="https://www.acmicpc.net/problem/10828">스택</a></li>
+        <li><a href="https://www.acmicpc.net/problem/1181">단어 정렬</a></li>
+        <li><a href="https://www.acmicpc.net/problem/1920">수 찾기</a></li>
+        <li><a href="https://www.acmicpc.net/problem/2609">최대공약수와 최소공배수</a></li>
       </ul>
     </details>
     </td>
