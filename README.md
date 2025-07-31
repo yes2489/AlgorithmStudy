@@ -6,9 +6,9 @@
   <tr>
     <td align="center"><a href="https://github.com/Jay-Youngjae"><img src="https://github.com/Jay-Youngjae.png" width="100px;" alt=""/><br /><sub><b>✨ 김영재 ✨</b></sub></td>
     <td align="center"><a href="https://github.com/Minkyoungg0"><img src="https://github.com/Minkyoungg0.png" width="100px;" alt=""/><br /><sub><b>✨ 문민경 ✨</b></sub></td>  
-    <td align="center"><a href="https://github.com/bbo9866"><img src="https://github.com/bbo9866.png" width="100px;" alt=""/><br /><sub><b>✨ 박지원 ✨</b></sub></td>
     <td align="center"><a href="https://github.com/yes2489"><img src="https://github.com/yes2489.png" width="100px;" alt=""/><br /><sub><b>✨ 양은서 ✨</b></sub></td>
     <td align="center"><a href="https://github.com/ye0ngeun"><img src="https://github.com/ye0ngeun.png" width="100px;" alt=""/><br /><sub><b>✨ 이영은 ✨</b></sub></td>
+    <td align="center"><a href="https://github.com/bbo9866"><img src="https://github.com/bbo9866.png" width="100px;" alt=""/><br /><sub><b>🤝 박지원 🤝</b></sub></td>
   </tr>
 </table>
 <br />
@@ -127,16 +127,11 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
     </td>
     <td valign="top">
       <details>
-      <summary><strong>회차번호 (YY.MM.DD)</strong></summary>
-      <strong>공통</strong>
-      <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
-      </ul>
+      <summary><strong>4회차 (25.08.07)</strong></summary>
       <strong>자율</strong>
       <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
+        <li><a href="https://www.acmicpc.net/problem/1260">DFS와 BFS</a></li>
+        <li><a href="https://www.acmicpc.net/problem/2606">바이러스</a></li>
       </ul>
     </details>
     </td>
