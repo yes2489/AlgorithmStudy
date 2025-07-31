@@ -40,7 +40,8 @@
 2. 자신의 영문 이름으로 된 폴더 내에 Week 주차를 생성한다.
 3. 폴더 안에 자신의 정답 코드를 작성한다. 코드 파일의 제목은 `{플랫폼}{문제번호}.py`
 4. 소스코드 `commit 규칙`을 지킨다.
-5. 원본 저장소에 `PR`을 보낸다.
+5. 본인 저장소에 `Push` 한다.
+6. 본인 저장소에서 `Pull requests` → `New pull requests`를 열어 원본 저장소에 `PR`을 보낸다.
 
 <br />
 <br />
@@ -112,16 +113,15 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
     </td>
     <td valign="top">
       <details>
-      <summary><strong>회차번호 (YY.MM.DD)</strong></summary>
-      <strong>공통</strong>
+      <summary><strong>3회차 (25.07.24)</strong></summary>
+      <strong>대면</strong>
       <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
+        <li><a href="https://www.acmicpc.net/problem/10845">큐</a></li>
       </ul>
-      <strong>자율</strong>
+      <strong>공통 과제</strong>
       <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
+        <li><a href="https://www.acmicpc.net/problem/11399">ATM</a></li>
+        <li><a href="https://www.acmicpc.net/problem/1012">유기농 배추</a></li>
       </ul>
     </details>
     </td>
