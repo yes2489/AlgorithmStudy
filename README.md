@@ -132,6 +132,9 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
       <ul>
         <li><a href="https://www.acmicpc.net/problem/1260">DFS와 BFS</a></li>
         <li><a href="https://www.acmicpc.net/problem/2606">바이러스</a></li>
+        <li><a href="https://www.acmicpc.net/problem/7562">나이트의 이동</a></li>
+        <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165">타겟 넘버</a></li>
+        <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/1844">게임 맵 최단거리</a></li>
       </ul>
     </details>
     </td>
