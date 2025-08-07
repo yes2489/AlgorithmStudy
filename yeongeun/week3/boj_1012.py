@@ -1,4 +1,5 @@
 import sys
+sys.setrecursionlimit(10**6)
 
 input = sys.stdin.readline
 
@@ -11,7 +12,7 @@ def dfs(x ,y):
         nx, ny = x + dx, y + dy
 
         if 0 <= nx < M and 0 <= ny < N:
-            if field[ny][nx] == 1 and not visited[y][x]:
+            if field[ny][nx] == 1 and not visited[ny][nx]:
                 dfs(nx, ny)
 
 T = int(input())
