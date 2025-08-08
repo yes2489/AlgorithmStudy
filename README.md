@@ -128,7 +128,7 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
     <td valign="top">
       <details>
       <summary><strong>4회차 (25.08.07)</strong></summary>
-      <strong>자율</strong>
+      <strong>공통 과제</strong>
       <ul>
         <li><a href="https://www.acmicpc.net/problem/1260">DFS와 BFS</a></li>
         <li><a href="https://www.acmicpc.net/problem/2606">바이러스</a></li>
@@ -142,16 +142,12 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
   <tr>
     <td valign="top">
       <details>
-      <summary><strong>회차번호 (YY.MM.DD)</strong></summary>
-      <strong>공통</strong>
+      <summary><strong>5회차 (25.08.14)</strong></summary>
+      <strong>공통 과제</strong>
       <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
-      </ul>
-      <strong>자율</strong>
-      <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
+        <li><a href="https://www.acmicpc.net/problem/10026">적록색약</a></li>
+        <li><a href="https://www.acmicpc.net/problem/1926">그림</a></li>
+        <li><a href="https://www.acmicpc.net/problem/1388">바닥 장식</a></li>
       </ul>
     </details>
     </td>
