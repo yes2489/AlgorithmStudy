@@ -44,4 +44,4 @@ for i in range(N):
 print(picture_cnt, end = ' ')
 print(color_weakness_picture_cnt)
 
-# 2583이랑 좀 비슷한 느낌 덕분에 쉽게 풀었다
+# 2583이랑 좀 비슷한 느낌
