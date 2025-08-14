@@ -153,16 +153,14 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
     </td>
     <td valign="top">
       <details>
-      <summary><strong>회차번호 (YY.MM.DD)</strong></summary>
-      <strong>공통</strong>
+      <summary><strong>6회차 (25.08.14)</strong></summary>
+      <strong>공통 과제</strong>
       <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
-      </ul>
-      <strong>자율</strong>
-      <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
+        <li><a href="https://www.acmicpc.net/problem/2839">2839 설탕 배달</a></li>
+        <li><a href="https://www.acmicpc.net/problem/1463">1463 1로 만들기</a></li>
+        <li><a href="https://www.acmicpc.net/problem/9084">9084 동전</a></li>
+        <li><a href="https://www.acmicpc.net/problem/1535">1535 안녕</a></li>
+        <li><a href="https://www.acmicpc.net/problem/11054">11054 가장 긴 바이토닉 부분 수열</a></li>
       </ul>
     </details>
     </td>
