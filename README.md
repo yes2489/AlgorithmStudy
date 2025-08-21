@@ -4,10 +4,10 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Jay-Youngjae"><img src="https://github.com/Jay-Youngjae.png" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jea718" width="100px"><br /><sub><b>✨ 김영재 ✨</b></sub></td>
-    <td align="center"><a href="https://github.com/Minkyoungg0"><img src="https://github.com/Minkyoungg0.png" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ess0520" width="100px"><br /><sub><b>✨ 문민경 ✨</b></sub></td>  
-    <td align="center"><a href="https://github.com/yes2489"><img src="https://github.com/yes2489.png" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yes24150" width="100px"><br /><sub><b>✨ 양은서 ✨</b></sub></td>
-    <td align="center"><a href="https://github.com/ye0ngeun"><img src="https://github.com/ye0ngeun.png" width="100px;" alt=""/><br /><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yeongnii" width="100px"><br /><sub><b>✨ 이영은 ✨</b></sub></td>
+    <td align="center"><a href="https://github.com/Jay-Youngjae"><img src="https://github.com/Jay-Youngjae.png" width="100px;" alt=""/><br /><sub><b>✨ 김영재 ✨</b></sub></td>
+    <td align="center"><a href="https://github.com/Minkyoungg0"><img src="https://github.com/Minkyoungg0.png" width="100px;" alt=""/><br /><sub><b>✨ 문민경 ✨</b></sub></td>  
+    <td align="center"><a href="https://github.com/yes2489"><img src="https://github.com/yes2489.png" width="100px;" alt=""/><br /><sub><b>✨ 양은서 ✨</b></sub></td>
+    <td align="center"><a href="https://github.com/ye0ngeun"><img src="https://github.com/ye0ngeun.png" width="100px;" alt=""/><br /><sub><b>✨ 이영은 ✨</b></sub></td>
     <td align="center"><a href="https://github.com/bbo9866"><img src="https://github.com/bbo9866.png" width="100px;" alt=""/><br /><sub><b>🤝 박지원 🤝</b></sub></td>
   </tr>
 </table>
@@ -128,7 +128,7 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
     <td valign="top">
       <details>
       <summary><strong>4회차 (25.08.07)</strong></summary>
-      <strong>공통 과제</strong>
+      <strong>자율</strong>
       <ul>
         <li><a href="https://www.acmicpc.net/problem/1260">DFS와 BFS</a></li>
         <li><a href="https://www.acmicpc.net/problem/2606">바이러스</a></li>
@@ -142,35 +142,40 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
   <tr>
     <td valign="top">
       <details>
-      <summary><strong>5회차 (25.08.14)</strong></summary>
-      <strong>공통 과제</strong>
-      <ul>
-        <li><a href="https://www.acmicpc.net/problem/10026">적록색약</a></li>
-        <li><a href="https://www.acmicpc.net/problem/1926">그림</a></li>
-        <li><a href="https://www.acmicpc.net/problem/1388">바닥 장식</a></li>
-      </ul>
-    </details>
-    </td>
-    <td valign="top">
-      <details>
-      <summary><strong>6회차 (25.08.14)</strong></summary>
-      <strong>공통 과제</strong>
-      <ul>
-        <li><a href="https://www.acmicpc.net/problem/2839">2839 설탕 배달</a></li>
-        <li><a href="https://www.acmicpc.net/problem/1463">1463 1로 만들기</a></li>
-        <li><a href="https://www.acmicpc.net/problem/9084">9084 동전</a></li>
-        <li><a href="https://www.acmicpc.net/problem/1535">1535 안녕</a></li>
-        <li><a href="https://www.acmicpc.net/problem/11054">11054 가장 긴 바이토닉 부분 수열</a></li>
-        <li><a href="https://www.acmicpc.net/problem/13335">13335 트럭</a></li>
-      </ul>
-    </details>
-    </td>
-    <td valign="top">
-      <details>
-      <summary><strong>7회차 (YY.MM.DD)</strong></summary>
+      <summary><strong>회차번호 (YY.MM.DD)</strong></summary>
       <strong>공통</strong>
       <ul>
-        <li><a href="https://www.acmicpc.net/problem/14891">14891 톱니바퀴</a></li>
+        <li><a href="문제링크">문제_이름</a></li>
+        <!-- 추가할 문제가 있으면 여기에 추가 -->
+      </ul>
+      <strong>자율</strong>
+      <ul>
+        <li><a href="문제링크">문제_이름</a></li>
+        <!-- 추가할 문제가 있으면 여기에 추가 -->
+      </ul>
+    </details>
+    </td>
+    <td valign="top">
+      <details>
+      <summary><strong>회차번호 (YY.MM.DD)</strong></summary>
+      <strong>공통</strong>
+      <ul>
+        <li><a href="문제링크">문제_이름</a></li>
+        <!-- 추가할 문제가 있으면 여기에 추가 -->
+      </ul>
+      <strong>자율</strong>
+      <ul>
+        <li><a href="문제링크">문제_이름</a></li>
+        <!-- 추가할 문제가 있으면 여기에 추가 -->
+      </ul>
+    </details>
+    </td>
+    <td valign="top">
+      <details>
+      <summary><strong>회차번호 (YY.MM.DD)</strong></summary>
+      <strong>공통</strong>
+      <ul>
+        <li><a href="문제링크">문제_이름</a></li>
         <!-- 추가할 문제가 있으면 여기에 추가 -->
       </ul>
       <strong>자율</strong>

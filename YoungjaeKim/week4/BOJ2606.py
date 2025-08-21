@@ -20,7 +20,7 @@ def bfs(start, visited):
     result = 0 # 감염된 컴퓨터 수
     while queue:
         v = queue.popleft()
-        for i in graph[v]:
+        for i in graph[v]: #그래프를 순환하면서 연결되지 않았다면 알아서 반복분에서 나온다
             if not visited[i]:
                 queue.append(i)
                 visited[i]=True
