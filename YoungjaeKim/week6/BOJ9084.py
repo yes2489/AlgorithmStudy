@@ -5,6 +5,7 @@ for _ in range(T):
     M = int(input())
 
     dp = [0] * (M + 1)
+    
     dp[0] = 1  # 0원은 아무 동전도 쓰지 않는 경우의 수 단 1개
     # 경우의 수 누적
     for i in coin:
