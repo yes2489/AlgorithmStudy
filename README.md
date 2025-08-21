@@ -167,16 +167,14 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
     </td>
     <td valign="top">
       <details>
-      <summary><strong>7회차 (YY.MM.DD)</strong></summary>
+      <summary><strong>7회차 (25.08.28)</strong></summary>
       <strong>공통</strong>
       <ul>
         <li><a href="https://www.acmicpc.net/problem/14891">14891 톱니바퀴</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
-      </ul>
-      <strong>자율</strong>
-      <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
+        <li><a href="https://www.acmicpc.net/problem/110471">110471 동전 0 </a></li>
+        <li><a href="https://www.acmicpc.net/problem/1541">1541 잃어버린 괄호</a></li>
+        <li><a href="https://www.acmicpc.net/problem/1931">1931 회의실 배정</a></li>
+        <li><a href="https://www.acmicpc.net/problem/16953">16953 A → B</a></li>
       </ul>
     </details>
     </td>
