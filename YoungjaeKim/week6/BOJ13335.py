@@ -1,5 +1,4 @@
 from collections import deque
-
 def min_time(n, w, L, weight):
     time = 0
     idx = 0
