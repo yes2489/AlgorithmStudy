@@ -7,7 +7,7 @@ input = sys.stdin.readline
 
 #코딩 테스트에서 lru_cache는 파이썬의 functools 모듈에 포함된 데코레이터로,
 # 함수의 결과를 캐싱하여 동일한 입력에 대한 반복적인 계산을 줄여 성능을 향상시키는 데 사용
-#와 @lru_cache(maxsize=None) 이거 처음봅니다
+
 @lru_cache(maxsize=None) #@cache
 def max_hp(idx, hp, happy):
     if idx == N:
