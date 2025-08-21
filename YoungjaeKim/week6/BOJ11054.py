@@ -39,6 +39,8 @@ for i in range(N - 1, -1, -1):
 #print(RS)
 # 3) 봉우리 i를 합치기
 ans = 0
+
 for i in range(N):
     ans = max(ans, LS[i] + RS[i] - 1)
+
 print(ans)
