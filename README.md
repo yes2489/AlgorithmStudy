@@ -171,7 +171,7 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
       <strong>공통</strong>
       <ul>
         <li><a href="https://www.acmicpc.net/problem/14891">14891 톱니바퀴</a></li>
-        <li><a href="https://www.acmicpc.net/problem/110471">110471 동전 0 </a></li>
+        <li><a href="https://www.acmicpc.net/problem/11047">11047 동전 0 </a></li>
         <li><a href="https://www.acmicpc.net/problem/1541">1541 잃어버린 괄호</a></li>
         <li><a href="https://www.acmicpc.net/problem/1931">1931 회의실 배정</a></li>
         <li><a href="https://www.acmicpc.net/problem/16953">16953 A → B</a></li>
