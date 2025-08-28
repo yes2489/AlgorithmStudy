@@ -2,16 +2,19 @@ import sys
 input = sys.stdin.readline
 
 n, k = map(int, input().split())
-coins = [int(input()) for _ in range(n)]
+coins = []
+total = 0
 
-coins.sort(reverse=True)
+for _ in range(n):
+    coin = int(input())
+    if coin <= k:
+        coins.append(coin)
 
-cnt = 0
-for coin in coins:
+for i in range(len(coins) -1 , -1, -1):
+    if k // coins[i] != 0:
+        total += k // coins[i]
+        k = k % coins[i]
     if k == 0:
         break
-    
-    cnt += k // coin # 해당 동전 몇 개 쓸 수 있는지 저장
-    k %= coin # 남은 금액 갱신
 
-print(cnt)
+print(total)
