@@ -190,15 +190,15 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
   <tr>
     <td valign="top">
       <details>
-      <summary><strong>회차번호 (YY.MM.DD)</strong></summary>
+      <summary><strong>9회차 (25.09.11)</strong></summary>
       <strong>공통</strong>
       <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
-      </ul>
-      <strong>자율</strong>
-      <ul>
-        <li><a href="문제링크">문제_이름</a></li>
+        <li><a href="https://www.acmicpc.net/problem/7795">7795 먹을 것인가 먹힐 것인가</a></li>
+        <li><a href="https://www.acmicpc.net/problem/18870">18870 좌표 압축</a></li>
+        <li><a href="https://www.acmicpc.net/problem/16401">16401 과자 나눠주기</a></li>
+        <li><a href="https://www.acmicpc.net/problem/2110">2110 공유기 설치</a></li>
+        <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43238">PGS 입국심사</a></li>
+        <li><a href="https://www.acmicpc.net/problem/1713">1713 후보 추천하기</a></li>
         <!-- 추가할 문제가 있으면 여기에 추가 -->
       </ul>
     </details>
