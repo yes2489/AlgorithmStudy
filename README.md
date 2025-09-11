@@ -119,6 +119,8 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
       </ul>
     </details>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <details>
       <summary><strong>4회차 (25.08.07)</strong></summary>
@@ -132,8 +134,6 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
       </ul>
     </details>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <details>
       <summary><strong>5회차 (25.08.14)</strong></summary>
@@ -159,6 +159,8 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
       </ul>
     </details>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <details>
       <summary><strong>7회차 (25.08.28)</strong></summary>
@@ -186,8 +188,6 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
       </ul>
     </details>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <details>
       <summary><strong>9회차 (25.09.11)</strong></summary>
@@ -199,51 +199,6 @@ git commit -m "[BOJ] 2557 Hello World / 브론즈5 / eunseoyang"
         <li><a href="https://www.acmicpc.net/problem/2110">2110 공유기 설치</a></li>
         <li><a href="https://school.programmers.co.kr/learn/courses/30/lessons/43238">PGS 입국심사</a></li>
         <li><a href="https://www.acmicpc.net/problem/1713">1713 후보 추천하기</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
-      </ul>
-    </details>
-    </td>
-    <td valign="top">
-      <details>
-      <summary><strong>회차번호 (YY.MM.DD)</strong></summary>
-      <strong>공통</strong>
-      <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
-      </ul>
-      <strong>자율</strong>
-      <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
-      </ul>
-    </details>
-    </td>
-    <td valign="top">
-      <details>
-      <summary><strong>회차번호 (YY.MM.DD)</strong></summary>
-      <strong>공통</strong>
-      <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
-      </ul>
-      <strong>자율</strong>
-      <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
-      </ul>
-    </details>
-    </td>
-    <td valign="top">
-      <details>
-      <summary><strong>회차번호 (YY.MM.DD)</strong></summary>
-      <strong>공통</strong>
-      <ul>
-        <li><a href="문제링크">문제_이름</a></li>
-        <!-- 추가할 문제가 있으면 여기에 추가 -->
-      </ul>
-      <strong>자율</strong>
-      <ul>
-        <li><a href="문제링크">문제_이름</a></li>
         <!-- 추가할 문제가 있으면 여기에 추가 -->
       </ul>
     </details>
